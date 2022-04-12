@@ -1,1 +1,1 @@
-# FTC---Faiyaz-Training-Center
+# FTC-Faiyaz-Training-Center
